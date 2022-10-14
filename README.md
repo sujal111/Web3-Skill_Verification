@@ -25,7 +25,7 @@ Project Link: https://decentraskill.vercel.app
 > CSS
 > JS
 > Solidity
-> oAuth
+> OAuth
 
 
 ---
